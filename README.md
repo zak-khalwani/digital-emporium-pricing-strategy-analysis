@@ -82,25 +82,32 @@ This project follows a comprehensive 5-step analysis, with each step building on
 
 ### Analysis 1: Profit Margin Decomposition
 The analysis revealed that profit erosion was not a company-wide problem but was concentrated in specific areas. The `Apparel` category was identified as the primary "Problem Child," and a "Profit Villains" list of specific, low-priced products was generated.
+
 ![Category Profitability](visualization/gross_profit_n_margin_by_category.png)
 
 ![Category Profitability](visualization/product_heroes_n_villains.png)
 
 ### Analysis 2: Promotional Effectiveness
 We proved that deep discounts were the root cause of the problem. The "Profit Cliff" effect was being driven almost exclusively by the `Apparel` category, which was dangerously reliant on value-destructive promotions of 16-50% off.
+
 ![Faceted Profit Cliff](visualization/faceted_discount_profit_cliff.png)
 
 ### Analysis 3: Price Elasticity Analysis
 In a crucial and counter-intuitive finding, the analysis showed that `Apparel` customers are relatively **inelastic** (not price-sensitive). This proved that the deep discounts were a strategic error, not a market necessity. We have the pricing power to reduce these discounts.
+
 ![Comprehensive Elasticity](visualization/comprehensive_price_elasticity.png)
 
 ### Analysis 4: The Strategic Synthesis
 All findings were combined into the "Pricing Strategy Matrix," a simple and powerful playbook. It placed `Apparel` in the "Assertive Pricing" quadrant (inelastic & underpriced), highlighting a massive opportunity to raise prices and cut discounts.
+
 ![Strategy Matrix](visualization/pricing_strategy_matrix.png)
 
 ### Analysis 5: Financial Impact & Business Case
 A sophisticated simulation, which accounted for customer elasticity, determined that the optimal discount cap for `Apparel` is **5%**. Implementing this and other targeted price increases is projected to have a massive positive impact on the bottom line.
+
 ![Sensitivity Analysis](visualization/net_impact_sensitivity.png)
+
+![Financial Impact Projection Summary](visualization/financial_impact_project_summary.png)
 
 ---
 
